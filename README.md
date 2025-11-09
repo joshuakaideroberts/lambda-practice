@@ -182,7 +182,7 @@ You can also test using the direct API Gateway URL:
 ### Basic API Gateway Test
 
 ```bash
-curl -X POST https://3curjopzvj.execute-api.us-west-2.amazonaws.com/process-profile \
+curl -X POST https://on5t5cp2xl.execute-api.us-west-2.amazonaws.com/scoreProfileZip \
   -H "Content-Type: application/json" \
   -d '{
     "name": "John Doe",
